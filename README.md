@@ -9,7 +9,7 @@ This project is a Drone controller composed of a sender and receiver.
 
   
 ## Prerequisites
-* RF22 arduino library: [](http://www.airspayce.com/mikem/arduino/RF22/)
+* RF22 arduino library: [http://www.airspayce.com/mikem/arduino/RF22](http://www.airspayce.com/mikem/arduino/RF22/)
 
 
 ## Controller

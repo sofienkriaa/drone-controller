@@ -33,7 +33,7 @@ This project is a Drone controller composed of a sender and receiver.
 </table>
 
 ### Schematic
-<img src="img/schematic-receiver.png" 
+<img src="img/schematic-sender.png" 
             alt="Picture" 
             width="800" 
             style="display: block; margin: 0 auto" />
@@ -59,7 +59,7 @@ This project is a Drone controller composed of a sender and receiver.
 </table>
 
 ### Schematic
-<img src="img/schematic-sender.png" 
+<img src="img/schematic-receiver.png" 
             alt="Picture" 
             width="800" 
             style="display: block; margin: 0 auto" />
